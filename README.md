@@ -29,6 +29,8 @@ Zstd can also offer stronger compression ratio at the cost of compression speed.
 
 Compression Speed vs Ratio | Decompression Speed
 ---------------------------|--------------------
+
+[![Join the chat at https://gitter.im/Cyan4973/zstd](https://badges.gitter.im/Cyan4973/zstd.svg)](https://gitter.im/Cyan4973/zstd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Compression Speed vs Ratio](images/CSpeed.png "Compression Speed vs Ratio") | ![Decompression Speed](images/DSpeed.png "Decompression Speed")
 
 
